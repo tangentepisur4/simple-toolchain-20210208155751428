@@ -8,7 +8,7 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "cfenv": "1.2.x",
+    "cfenv": "1.2.5",
     "express": "^4.17.x"
   },
   "repository": {},
